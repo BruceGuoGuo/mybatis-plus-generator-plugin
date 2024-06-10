@@ -14,7 +14,7 @@
          Simple HTML elements (text formatting, paragraphs, and lists) can be added inside of <![CDATA[ ]]> tag.
          Guidelines: https://plugins.jetbrains.com/docs/marketplace/plugin-overview-page.html#plugin-description -->
     <description><![CDATA[
-    For generating entity, mapper, domain: <br>
+    For generating entity, mapper, domain ("tools > 生成entity"): <br>
     <ul>
         <li>proj path: the path of project</li>
         <li>package: the package of entity, mapper, domain</li>
